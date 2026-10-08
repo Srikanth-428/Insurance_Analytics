@@ -38,4 +38,4 @@ Open `dashboard/Insurance_Policy_Analytics.pbix` in Power BI Desktop
 (free download from Microsoft), or view the static screenshot above.
 
 ## Author
-Vinod Kumar Harijana — [LinkedIn](https://www.linkedin.com/in/srikanth-chakali-4931a5359)
+Chakali Srikanth — [LinkedIn](https://www.linkedin.com/in/srikanth-chakali-4931a5359)
